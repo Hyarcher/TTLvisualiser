@@ -12,5 +12,6 @@ Open the downloaded files from github and put them in a folder. Using the comman
 
 ``` pip install numpy ```
 
-This should install the correct libraries needed for the visuliser to be run. If these have not installed correctly on your device, there are many tutorials and forum posts on how to install these. 
+This should install the correct libraries needed for the visuliser to be run. If these have not installed correctly on your operating system, there are many tutorials and forum posts on how to install these. 
 
+Now the project shouldbe able to be run either through normal means of running Python files on the command line or terminal or through a text editor. Visual Studio Code was used to create and run the project but any text editor with a Python interpreter.
